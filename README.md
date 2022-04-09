@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# AdvancedNode
+Includes caching performance optimization tests and ci env
